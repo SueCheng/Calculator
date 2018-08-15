@@ -1,0 +1,57 @@
+.normal {
+  width: 400px;
+  margin: auto;
+}
+.maximum {
+  width: 100%;
+}
+.header {
+  width: 100%;
+  border: 2px solid grey;
+  position: relative;
+}
+.rightCorner {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.calculator {
+  width: 100%;
+  border: 2px solid grey;
+}
+.row {
+  width: 100%;
+}
+.quarterCol {
+  width: 25%;
+}
+.thirdCol {
+  width: 33.3%;
+}
+.twoThirdCol {
+  width: 66.6%;
+}
+.halfCol {
+  width: 50%;
+}
+.threeQuarterCol {
+  width: 75%;
+}
+.inlineBlock {
+  display: inline-block;
+}
+.topAlign {
+  vertical-align: top;
+}
+.singleHeight {
+  height: 5vh;
+}
+.doubleHeight {
+  height: 10vh;
+}
+.rightAlign {
+  text-align: right;
+}
+button {
+  cursor: pointer;
+}
