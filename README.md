@@ -4,7 +4,7 @@ a Vanilla Javascript app that lets user do basic calculation
 
 #Screenshot
 
-[Calculator] (hhttps://github.com/SueCheng/Calculator/blob/master/screenShot.png)
+[Calculator] (https://github.com/SueCheng/Calculator/blob/master/screenShot.png)
 
 ## Installation:
 
